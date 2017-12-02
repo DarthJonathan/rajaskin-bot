@@ -1,0 +1,23 @@
+{
+  "name": "rajaskin-bot",
+  "version": "1.0.0",
+  "description": "Steam bot for rajaskin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarthJonathan/rajaskin-bot.git"
+  },
+  "author": "Byteforce Indonesia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarthJonathan/rajaskin-bot/issues"
+  },
+  "homepage": "https://github.com/DarthJonathan/rajaskin-bot#readme",
+  "dependencies": {
+    "steam-totp": "^2.0.1",
+    "steam-user": "^3.23.2"
+  }
+}
